@@ -13,7 +13,7 @@ Ensure you have the following Python libraries installed:
 
 ### Execution Steps
 1. Open your terminal or command prompt.
-2. Nagitate into the `ACMDG` directory (located in the saame folder as this README):
+2. Nagitate into the `ACMDG` directory (located in the same folder as this README):
    ```bash
    cd ACMDG
 3. Navigate into the `code` directory:
